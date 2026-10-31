@@ -3,3 +3,6 @@
 
 #Logs file
 logs/*.log
+
+#Jupyter Notebook
+test.ipynb
