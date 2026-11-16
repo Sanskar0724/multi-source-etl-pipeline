@@ -6,3 +6,6 @@ logs/*.log
 
 #Jupyter Notebook
 test.ipynb
+
+#pycache
+__pycache__/
